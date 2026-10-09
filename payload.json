@@ -1,0 +1,82 @@
+{
+  "name": "Rajab Payloads",
+  "payloads": [
+    {
+      "name": "ftpsrv-ng",
+      "filename": "ftpsrv-ps5NG.elf",
+      "url": "https://github.com/GARajab/ps5payloads/releases/download/latest_Working/ftpsrv-ps5NG.elf",
+      "description": "A simple FTP server that accepts connections on port 2121",
+      "version": "v0.16-ng"
+    },
+    {
+      "name": "Orbet Store",
+      "filename": "orbit_store.elf",
+      "url": "https://github.com/GARajab/ps5payloads/releases/download/latest_Working/orbit_store.elf",
+      "description": "A modern, no-BS download manager for PS5.",
+      "version": "v0.8.0 (BETA)"
+    },
+    {
+      "name": "ShadowMountPlus",
+      "filename": "shadowmountplus.elf",
+      "url": "https://github.com/GARajab/ps5payloads/releases/download/latest_Working/shadowmountplus.elf",
+      "description": "ShadowMountPlus is a fully automated, background Auto-Mounter payload for Jailbroken PlayStation 5 consoles.",
+      "version": "v1.7beta4"
+    },
+    {
+      "name": "Game Compressor",
+      "filename": "game-compressor.elf",
+      "url": "https://github.com/GARajab/ps5payloads/releases/download/latest_Working/game-compressor.elf",
+      "description": "Standalone PS5 payload for compressing, unpacking, validating, repairing, and moving ShadowMountPlus-mounted games from a simple web UI.",
+      "version": "v1.1.1"
+    },
+    {
+      "name": "Kstuff Lite",
+      "filename": "kstuffv1.10.elf",
+      "url": "https://github.com/GARajab/ps5payloads/releases/download/latest_Working/kstuffv1.10.elf",
+      "description": "builds on the existing kstuff-lite crypto.",
+      "version": "v1.10 (BETA)"
+    },
+    {
+      "name": "nanoDNS",
+      "filename": "kstuffv1.11.elf",
+      "url": "https://github.com/GARajab/ps5payloads/releases/download/latest_Working/kstuffv1.11.elf",
+      "description": "builds on the existing kstuff-lite crypto.",
+      "version": "v0.4"
+    },
+    {
+      "name": "PoorDS4",
+      "filename": "PoorDS4rc51.elf",
+      "url": "https://github.com/GARajab/ps5payloads/releases/download/latest_Working/PoorDS4rc51.elf",
+      "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5 control native PS5 games.",
+      "version": "v0.1.0-rc51"
+    },
+    {
+      "name": "BFpilot",
+      "filename": "bfpilot.elf",
+      "url": "https://github.com/GARajab/ps5payloads/releases/download/latest_Working/bfpilot.elf",
+      "description": "PS5 payload that runs a browser file manager on port 5905.",
+      "version": "v0.4.4"
+    },
+    {
+      "name": "PS5 BackPork",
+      "filename": "ps5-backpork.elf",
+      "url": "https://github.com/GARajab/ps5payloads/releases/download/latest_Working/ps5-backpork.elf",
+      "description": "A background payload for PlayStation 5 that automatically allows system library sideloading.",
+      "version": "v0.1"
+    },
+    {
+      "name": "ps5-payload-elfldr",
+      "filename": "elfldr-ps5.elf",
+      "url": "https://github.com/GARajab/ps5payloads/releases/download/latest_Working/elfldr-ps5.elf",
+      "description": "ps5-payload-elfldr",
+      "version": "v0.26"
+    },
+    {
+      "name": "Pegasus DL",
+      "filename": "pegasus_dl.elf",
+      "url": "https://github.com/GARajab/ps5payloads/releases/download/latest_Working/pegasus_dl.elf",
+      "description": "Direct package downloading from your PS5, managed through a local web interface.",
+      "version": "1.10.1"
+    }
+  ]
+}
