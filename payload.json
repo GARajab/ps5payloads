@@ -75,5 +75,12 @@
       "url": "https://github.com/GARajab/ps5payloads/releases/download/latest_Working/nanodns.elf",
       "description": "Minimal PS4/PS5 payload DNS proxy.",
       "version": "0.4"
+    },
+    {
+      "name": "PKG Manager",
+      "filename": "pkg-manager_v1.5.0.elf",
+      "url": "https://github.com/GARajab/ps5payloads/releases/download/latest_Working/pkg-manager_v1.5.0.elf",
+      "description": "A clean and intuitive package manager for PlayStation 5.",
+      "version": "1.5.0"
     }
   ]
