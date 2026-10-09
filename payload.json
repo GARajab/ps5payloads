@@ -35,13 +35,6 @@
       "version": "v1.10 (BETA)"
     },
     {
-      "name": "nanoDNS",
-      "filename": "kstuffv1.11.elf",
-      "url": "https://github.com/GARajab/ps5payloads/releases/download/latest_Working/kstuffv1.11.elf",
-      "description": "builds on the existing kstuff-lite crypto.",
-      "version": "v0.4"
-    },
-    {
       "name": "PoorDS4",
       "filename": "PoorDS4rc51.elf",
       "url": "https://github.com/GARajab/ps5payloads/releases/download/latest_Working/PoorDS4rc51.elf",
@@ -75,5 +68,12 @@
       "url": "https://github.com/GARajab/ps5payloads/releases/download/latest_Working/pegasus_dl.elf",
       "description": "Direct package downloading from your PS5, managed through a local web interface.",
       "version": "1.10.1"
+    },
+    {
+      "name": "nanoDNS",
+      "filename": "nanodns.elf",
+      "url": "https://github.com/GARajab/ps5payloads/releases/download/latest_Working/nanodns.elf",
+      "description": "Minimal PS4/PS5 payload DNS proxy.",
+      "version": "0.4"
     }
   ]
