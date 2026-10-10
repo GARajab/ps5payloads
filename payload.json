@@ -82,5 +82,12 @@
       "url": "https://github.com/GARajab/ps5payloads/releases/download/latest_Working/pkg-manager_v1.5.0.elf",
       "description": "A clean and intuitive package manager for PlayStation 5.",
       "version": "1.5.0"
+    },
+    {
+         "name": "BlackBox",
+      "filename": "blackbox.elf",
+      "url": "https://github.com/GARajab/ps5payloads/releases/download/latest_Working/blackbox.elf",
+      "description": "BlackBox is a homebrew storefront and download manager developed for PS5 consoles.",
+      "version": "1.0.8"
     }
   ]
