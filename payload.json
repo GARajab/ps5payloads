@@ -89,5 +89,12 @@
       "url": "https://github.com/GARajab/ps5payloads/releases/download/latest_Working/blackbox.elf",
       "description": "BlackBox is a homebrew storefront and download manager developed for PS5 consoles.",
       "version": "1.0.8"
+    }،
+    {
+         "name": "Spectrum Library",
+      "filename": "SpectrumLibrary_1.4.8.elf",
+      "url": "https://github.com/GARajab/ps5payloads/releases/download/latest_Working/SpectrumLibrary_1.4.8.elf",
+      "description": "Spectrum Library is a lightweight native PlayStation 5 content manager designed to organize and deliver supported game files through a simple, clean, and user-friendly interface.",
+      "version": "1.4.8"
     }
   ]
