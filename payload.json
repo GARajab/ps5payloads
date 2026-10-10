@@ -96,5 +96,19 @@
       "url": "https://github.com/GARajab/ps5payloads/releases/download/latest_Working/SpectrumLibrary_1.4.8.elf",
       "description": "Spectrum Library is a lightweight native PlayStation 5 content manager designed to organize and deliver supported game files through a simple, clean, and user-friendly interface.",
       "version": "1.4.8"
+    },
+     {
+         "name": "PS5 Web File Manager",
+      "filename": "web-file-mgr-v1.10.elf",
+      "url": "https://github.com/GARajab/ps5payloads/releases/download/latest_Working/web-file-mgr-v1.10.elf",
+      "description": "A file manager for PS5 with a web UI. It is primarily intended for quickly and safely copying game dump folders from USB storage to internal storage.",
+      "version": "1.10"
+    },
+     {
+         "name": "HELPER-7z-PS5 Web File Manager",
+      "filename": "wfm-7zip-helper.elf",
+      "url": "https://github.com/GARajab/ps5payloads/releases/download/latest_Working/wfm-7zip-helper.elf",
+      "description": "PS5 Web File Manager HELPER-7z",
+      "version": "1.0.0"
     }
   ]
